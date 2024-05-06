@@ -1,7 +1,7 @@
 # ST7735-Screen-Distance-Pi
 Working distance sensor display on TFT ST7735 screen.
 
-On Screen:
+For Screen:
 GND = Pin 6 (Ground)
 VCC = Pin 1 (3v3 Power)
 SCL = Pin 23 (GPIO 11)
